@@ -67,7 +67,7 @@ public class ElectricBills {
 	 public String   getElectricBill( String id ) {
 
 		 return  "{"
-					+ "\"Electric Bill\": { \"id\":\""+ id +"\", \"address\":"
+					+ "\"Electric Bill\": { \"id\":\""+ " \"302010 \", \"address\":"
 		 		+ " \"ramallah_al nahda St \",\"Total\": \"100.76\", \"billDetails\": \"billDetails.....\", \"publishDate\":"
 		 		+  new Date(2018-1900, 4, 15 )+","
 		 		+ "\"payBeforDate\":"
